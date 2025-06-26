@@ -7,6 +7,7 @@ public class PintuName {
 		
 		System.out.println("Hi am manoj kumar, 30yrs old");
 		System.out.println("Hi bought a BMW in the year 2022");
+		System.out.println("i bought skoda in the year 2025");
 
 	}
 
